@@ -1,58 +1,76 @@
- 
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:2563EB&height=180&section=header&text=Praful%20Mahajan&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&descColor=93C5FD" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&height=210&section=header&text=PRAFUL%20S.%20MAHAJAN&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=57&descColor=BAE6FD" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;.NET+Core+%7C+React.js+%7C+Vue.js;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;ASP.NET+Core+%7C+React.js+%7C+Vue.js;Backend+%E2%80%A2+Frontend+%E2%80%A2+CI%2FCD;Always+Learning.+Always+Building." alt="Animated introduction" />
 
 <p>
-  <a href="https://www.linkedin.com/in/prafulsmahajan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:prafulmahajan806@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/prafulsmahajan">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/prafulsmahajan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:prafulmahajan806@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/prafulsmahajan"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Full Stack Developer with **3+ years of experience** building web applications using modern backend and frontend technologies.
+I'm a **Full Stack Developer with 3+ years of professional experience**, focused on building scalable web applications and reliable software solutions.
 
-- Developing scalable applications and RESTful APIs.
-- Working with database design, authentication, and integrations.
-- Building responsive interfaces with React.js and Vue.js.
-- Exploring better development practices and automation.
+- Developing backend services and RESTful APIs with C# and .NET.
+- Creating responsive web interfaces using React.js and Vue.js.
+- Working with relational databases, integrations, and authentication.
+- Building deployment workflows with GitHub Actions and GitLab CI/CD.
+- Modernizing applications and improving existing software systems.
 
-### 🛠️ Tech Stack
+## ⚡ Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,vue,js,html,css,bootstrap,tailwind,mysql,git,github,gitlab&perline=7" alt="Technology stack" />
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" alt="Backend technologies" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,vue,js,html,css,bootstrap,tailwind" alt="Frontend technologies" />
+
+### Database, Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,gitlab,vscode" alt="Database and development tools" />
 
 </div>
 
-**Backend:** C#, .NET Core, ASP.NET MVC, ASP.NET Web API, Entity Framework
+**Backend:** C#, .NET Core, .NET Framework, ASP.NET Core, ASP.NET MVC, Web API, VB.NET, Entity Framework, LINQ
 
-**Frontend:** React.js, Vue.js, JavaScript, HTML, CSS, Bootstrap
+**Frontend:** React.js, Vue.js, JavaScript, HTML5, CSS3, Bootstrap
 
 **Database:** Microsoft SQL Server, MySQL
 
-**Tools & DevOps:** Git, GitHub Actions, GitLab CI/CD, IIS
+**DevOps & Tools:** GitHub Actions, GitLab CI/CD, IIS, NGINX, Git
 
-### 📊 GitHub Statistics
+**Authentication & Monitoring:** JWT, RBAC, Okta, Duo SSO, Sentry
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prafulsmahajan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prafulsmahajan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafulsmahajan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafulsmahajan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=prafulsmahajan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+
+</div>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prafulsmahajan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -60,14 +78,14 @@ I'm a Full Stack Developer with **3+ years of experience** building web applicat
 
 <div align="center">
 
-### 🤝 Let's Connect
+### 🤝 Let's Build Something Great
 
-**Open to connecting, sharing ideas, and collaborating on interesting projects.**
+*Open to connecting, sharing knowledge, and collaborating on interesting software projects.*
 
 <a href="https://www.linkedin.com/in/prafulsmahajan/">LinkedIn</a> ·
 <a href="mailto:prafulmahajan806@gmail.com">Email</a> ·
 <a href="https://github.com/prafulsmahajan">GitHub</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:2563EB&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=120&section=footer" width="100%" />
 
 </div>
